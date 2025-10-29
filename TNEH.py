@@ -19,7 +19,7 @@ import os, sys
 
 os.system('xdg-open https://www.facebook.com/md.norman.988')
 os.system('xdg-open https://whatsapp.com/dl/?mode=wwc')
-os.system('xdg-open https://www.facebook.com/md.norman.988)
+os.system('xdg-open https://www.facebook.com/md.norman.988')
 
 
 #!/usr/bin/env python3
