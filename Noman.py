@@ -35,7 +35,7 @@ channel_link = "https://whatsapp.com/channel/0029VbAkW0SATRSeAAYjNv1Z"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "NOMAN"
+    "NOMANPAID"
 ]
 
 # ANSI color codes
